@@ -30,12 +30,12 @@
 <!-- ABOUT THE PROJECT -->
 # JavaScript Capstone Project
 
-> This is a React Capstone projectnamed Metrics-webapp. Developed from wireframe and consumes the Air pollution API.
+> This is a React Capstone projectnamed Metrics-webapp. Developed from wireframe and consumes a CoinGecko API.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Preview 📸
-<img width="800" alt="JS Capstone Preview Screenshot" src="./img/preview.png">
+<img width="800" alt="JS Capstone Preview Screenshot" src="./images/coinapp.png">
 
 
 ### Built With
@@ -51,7 +51,7 @@
 - Click [here](coming soon) to get started with a live demo
 
 ## Presentation Link
-- Click [here](coming soon) to see the presentation of my project.
+- Click [here](https://youtu.be/one7Dxdy5wQ) to see the presentation of my project.
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -120,8 +120,8 @@ Don't forget to give the project a ⭐️! Thanks again!
 
 ## Acknowledgments
 
-- Hat tip to 👤 AirpollutionAPI (Providing the Base API I consumed in this project and also the original design belongs to NELSON SAKWA)
-    - API: [Air pollution API]
+- Hat tip to 👤 CoinGecko (Providing the Base API I consumed in this project and also the original design belongs to NELSON SAKWA)
+    - API: [CoinGecko API]
 - Design Inspired by [NELSON SAKWA]
 
 ## support

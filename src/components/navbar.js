@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router-dom';
-import logo from '../images/navlogo-short.png';
+import logo from '../images/myLogo.png';
 import back from '../images/back.png';
 import microphone from '../images/microphone.png';
 import settings from '../images/settings.png';
