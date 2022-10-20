@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/osbentech/metrics-webapp/static/css/main.d744ac03.css",
-    "main.js": "/osbentech/metrics-webapp/static/js/main.eebb915f.js",
-    "static/js/787.57502ea2.chunk.js": "/osbentech/metrics-webapp/static/js/787.57502ea2.chunk.js",
-    "static/media/myLogo.png": "/osbentech/metrics-webapp/static/media/myLogo.05a5e53a45dc79e37e83.png",
-    "static/media/loading.gif": "/osbentech/metrics-webapp/static/media/loading.85375598dc10d65d7103.gif",
-    "index.html": "/osbentech/metrics-webapp/index.html",
-    "main.d744ac03.css.map": "/osbentech/metrics-webapp/static/css/main.d744ac03.css.map",
-    "main.eebb915f.js.map": "/osbentech/metrics-webapp/static/js/main.eebb915f.js.map",
-    "787.57502ea2.chunk.js.map": "/osbentech/metrics-webapp/static/js/787.57502ea2.chunk.js.map"
+    "main.css": "/metrics-webapp/static/css/main.d744ac03.css",
+    "main.js": "/metrics-webapp/static/js/main.aa9c6141.js",
+    "static/js/787.57502ea2.chunk.js": "/metrics-webapp/static/js/787.57502ea2.chunk.js",
+    "static/media/myLogo.png": "/metrics-webapp/static/media/myLogo.05a5e53a45dc79e37e83.png",
+    "static/media/loading.gif": "/metrics-webapp/static/media/loading.85375598dc10d65d7103.gif",
+    "index.html": "/metrics-webapp/index.html",
+    "main.d744ac03.css.map": "/metrics-webapp/static/css/main.d744ac03.css.map",
+    "main.aa9c6141.js.map": "/metrics-webapp/static/js/main.aa9c6141.js.map",
+    "787.57502ea2.chunk.js.map": "/metrics-webapp/static/js/787.57502ea2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d744ac03.css",
-    "static/js/main.eebb915f.js"
+    "static/js/main.aa9c6141.js"
   ]
 }
