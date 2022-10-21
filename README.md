@@ -57,7 +57,7 @@
 ## Getting Started
 
 **Instructions on how to access my project locally:** 
-- Enter this url: https://github.com/osbentech/metrics-webapp.git] in your web browser.
+- Enter this url: [https://github.com/osbentech/metrics-webapp.git] in your web browser.
 - Clone it to your local machine.
 - Once the download is complete you will be able to access my project locally . 
 
