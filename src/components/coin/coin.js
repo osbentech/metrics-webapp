@@ -16,7 +16,7 @@ const MyCoin = () => {
 
   useEffect(() => {
     dispatch(fetchSingleCrypto(params));
-  }, []);
+  }, [params]);
 
   return (
     <div className="myCoinContainer">

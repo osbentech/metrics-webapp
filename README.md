@@ -35,7 +35,7 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Preview 📸
-<img width="800" alt="JS Capstone Preview Screenshot" src="./images/coinapp.png">
+<img width="800" alt="Preview Screenshot" src="./images/coinapp.png">
 
 
 ### Built With

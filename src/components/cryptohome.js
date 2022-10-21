@@ -11,7 +11,7 @@ const MyCryptoCurrencies = () => {
 
   useEffect(() => {
     dispatch(fetchCryptoList());
-  }, []);
+  }, [fetchCryptoList]);
 
   return (
     <div className="cryptoContainer">
