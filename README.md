@@ -34,10 +34,6 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Preview 📸
-<img width="800" alt="Preview Screenshot" src="./images/coinapp.png">
-
-
 ### Built With
 
 - CSS, Jsx, React

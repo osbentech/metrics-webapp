@@ -26,7 +26,7 @@ exports[`Test Navbar renders correctly 1`] = `
     <img
       alt="CryptoForU Logo"
       className="logo"
-      src="navlogo-short.png"
+      src="myLogo.png"
     />
   </a>
   <ul
@@ -76,7 +76,7 @@ exports[`Test navbar renders correctly 1`] = `
     <img
       alt="CryptoForU Logo"
       className="logo"
-      src="navlogo-short.png"
+      src="myLogo.png"
     />
   </a>
   <ul
