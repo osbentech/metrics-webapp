@@ -30,7 +30,7 @@
 <!-- ABOUT THE PROJECT -->
 # JavaScript Capstone Project
 
-> This is a React Capstone projectnamed Metrics-webapp. Developed from wireframe and consumes a CoinGecko API.
+> This is a React Capstone project named Metrics-webapp. Developed from wireframe and consumes a CoinGecko API.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -48,7 +48,7 @@
 
 ## Live Demo
 
-- Click [here](coming soon) to get started with a live demo
+- Click [here](https://osbentech.github.io/metrics-webapp/) to get started with a live demo
 
 ## Presentation Link
 - Click [here](https://youtu.be/one7Dxdy5wQ) to see the presentation of my project.
